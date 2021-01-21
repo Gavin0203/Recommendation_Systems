@@ -29,4 +29,7 @@ Jupyter Notebook
         |- eda_movielens.ipynb
     |- requirements.txt
 ```
-### Github: https://github.com/Gavin0203/Recommendation_Systems 
+### Github
+```
+https://github.com/Gavin0203/Recommendation_Systems 
+```
