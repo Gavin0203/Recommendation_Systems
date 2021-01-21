@@ -19,7 +19,7 @@ Jupyter Notebook
 ```
     |- data 
         |- movielens
-            |- ml-latest-small
+            |- ml-latest
                 |- README.txt                
                 |- links.csv
                 |- movies.csv
@@ -29,4 +29,4 @@ Jupyter Notebook
         |- eda_movielens.ipynb
     |- requirements.txt
 ```
-### Github: 
+### Github: https://github.com/Gavin0203/Recommendation_Systems 
