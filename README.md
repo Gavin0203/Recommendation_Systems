@@ -27,6 +27,7 @@ Jupyter Notebook
                 |- tags.csv
     |- notebooks
         |- eda_movielens.ipynb
+        |- Benchmarking.ipynb
     |- requirements.txt
 ```
 ### Github
